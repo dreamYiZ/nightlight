@@ -1,5 +1,8 @@
 
 
+# connect 
+python app.py
+
 # venv
 
 source ./.venv/bin/activate
